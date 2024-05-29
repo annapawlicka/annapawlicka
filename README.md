@@ -2,8 +2,11 @@
 
 I mainly write Clojure (I've been writing it full-time since 2013). I don't do much of open source these days (corpo life) and my time outside of work is a bunch of non-technical things (maintaining balance, y'all).
 
-### Not programming
+Currently learning some Go and Swift.
+
 ------------------
+#### Non programming things:
+
 😄 Pronouns: she/her
 
 🥾 I love hiking and backpacking (slowly getting into ultra light)
@@ -14,7 +17,7 @@ I mainly write Clojure (I've been writing it full-time since 2013). I don't do m
 
 ⚡ I read and watch a lot of sci-fi, Slavic mythology, fantasy
 
-🏋️‍♀️ Weight lifting and spinning bike help me stay healthy
+🏋️‍♀️ Weight lifting, running and spinning bike help me stay healthy
 
 <!--
 **annapawlicka/annapawlicka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
